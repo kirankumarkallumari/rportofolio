@@ -53,7 +53,7 @@
     height: 55vh;
 }
 .devinfo{
-    font-size: 9px;
+    font-size: 7px;
     display: flex;
     justify-content: center;
     flex-direction: column;
