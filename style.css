@@ -310,6 +310,9 @@ element.style {
     *{
         /* background-color: red; */
     }
+  .box img{
+    width:210px;
+  }
     .devpic{
         display: none;
     }
