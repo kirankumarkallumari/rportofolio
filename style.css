@@ -32,7 +32,7 @@
  }
 .main{
 /*   background-color:black */
-  width: 95vw;
+  width: 90vw;
 }
 .container{
     display: flex;
@@ -61,7 +61,7 @@
 }
 
 .hello{
-    font-size: 5em;
+    font-size: 3em;
     color: white;
     
 }
