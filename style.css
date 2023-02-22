@@ -31,11 +31,12 @@
     background-color: black;
  }
 .main{
-  background-color:rgb(0, 0, 0);
+  background-color:black
   width: 90vw;
 }
 .container{
     display: flex;
+  background-color:black;
 }
 .infocontainer{
     /* background-color: rgb(28, 94, 133); */
