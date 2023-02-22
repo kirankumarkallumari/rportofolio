@@ -60,7 +60,7 @@
 }
 
 .hello{
-    font-size: 3em;
+    font-size: 5em;
     color: white;
     
 }
@@ -69,7 +69,7 @@
     font-size: 3em;
     /* font-weight:bolder; */
     color: rgb(117, 19, 117);
-    color: white;
+/*     color: white; */
     font-family: 'Fira Sans', sans-serif;
 }
 .about{
